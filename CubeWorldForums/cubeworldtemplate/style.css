@@ -1,3 +1,32 @@
-.header{margin: 25px;}
-
-.header-login{display: flex;background-color: black; color: white;}
+.header
+{
+    margin: 25px;
+}
+.header-login
+{
+    display: flex;
+    background-color: 
+    black; color: white; 
+    text-align: center
+}
+.forum
+{
+    margin: 25px;
+}
+.forum-content
+{
+    background-color: white;
+}
+.forum-content-header
+{
+    background: black; 
+    color: white;
+}
+.forum-container-box
+{
+    border: 1px solid black;
+}
+.forum-container-box-image
+{
+    display: flex;
+}
